@@ -6,3 +6,4 @@
 ## Courses
 
 - CS786 by Nisheeth
+- Cognitive Science by Danielle Navarro
